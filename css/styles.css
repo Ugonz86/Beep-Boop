@@ -1,15 +1,33 @@
-.result, #numberDiv {
-  display: none;
-}
-
-body {
-  justify-content: center;
-  text-align: center;
-}
-button {
-  
+strong {
+  color: #5bc0de;
+  font-style: italic;
 }
 
 .container {
-  margin-top: 50px
+  margin-top: 100px;
+  justify-content: center;
+  text-align: center;
+}
+
+.jumbotron {
+  border-radius: 50px;
+}
+
+.result {
+  display: none;
+  font-size: 30px;
+}
+
+#nameDiv {
+  margin-bottom: 30px;
+}
+
+#userInput2 {
+  /* color: #5bc0de;
+  font-style: italic;
+  font-weight: bold; */
+}
+
+#beepBoop {
+  display: none;
 }
