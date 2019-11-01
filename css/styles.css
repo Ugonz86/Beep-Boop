@@ -1,0 +1,15 @@
+.result, #numberDiv {
+  display: none;
+}
+
+body {
+  justify-content: center;
+  text-align: center;
+}
+button {
+  
+}
+
+.container {
+  margin-top: 50px
+}
