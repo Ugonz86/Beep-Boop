@@ -15,17 +15,17 @@ strong {
 
 .result {
   display: none;
-  font-size: 30px;
+  font-size: 20px;
+  justify-content: center;
 }
 
 #nameDiv {
   margin-bottom: 30px;
 }
 
-#userInput2 {
-  /* color: #5bc0de;
-  font-style: italic;
-  font-weight: bold; */
+#list {
+  justify-content: center;
+  text-align: justify;
 }
 
 #beepBoop {
